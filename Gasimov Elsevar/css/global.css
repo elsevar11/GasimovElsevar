@@ -1,0 +1,38 @@
+.text-center{
+    text-align: center;
+}
+
+.heading-small{
+    font-size: 1.25rem;
+}
+
+.heading-medium{
+    font-size: 1.5rem;
+}
+
+.heading-big{
+    font-size: 1.75rem;
+}
+.bg-dark-blue{
+    background: #1C3144;
+}
+.bg-light-blue{
+    background: #243948;
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.form-group{
+    padding: 0.25rem 0;
+}
+.form-group label{
+    display: block;
+}
+.form-control{
+    width:100% ;
+    padding: 0.37rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 0.5px;
+}
